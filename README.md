@@ -36,6 +36,8 @@ jupyter notebook
 
 3. 按顺序运行所有单元格
 
+4. `.py`后缀的文件都可以直接运行
+
 ## 主要文件说明
 
 - `web_scraping_visualization.ipynb`: 主要的Jupyter notebook文件
